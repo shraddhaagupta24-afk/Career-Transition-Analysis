@@ -4,7 +4,7 @@ import pandas as pd
 # LOAD DATASET
 # ==================================================
 
-data = pd.read_csv("Candidate job role.csv")
+data = pd.read_csv("candidate job role.csv")
 
 
 # ==================================================
